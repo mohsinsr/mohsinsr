@@ -1,8 +1,8 @@
 Software Engineer | Critical Thinker | Observer
-🔭 I’m currently working on Frontend Development
-🌱 I’m currently learning new JS frameworks and libraries
-💬 Ask me about Web development
-⚡ Fun fact: Apart from programming I like to read about historic events.
+<li>🔭 I’m currently working on Frontend Development </li>
+<li>🌱 I’m currently learning new JS frameworks and libraries</li>
+<li>💬 Ask me about Web development</li>
+<li>⚡ Fun fact: Apart from programming I like to read about historic events.</li>
 
 <!---
 Mohsin-dotcom/Mohsin-dotcom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
