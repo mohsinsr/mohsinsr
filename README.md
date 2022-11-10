@@ -1,4 +1,4 @@
-Software Engineer | Critical Thinker | Observer
+Software Engineer | Observer
 <li>🔭 I’m currently working on Frontend Development </li>
 <li>🌱 I’m currently learning new JS frameworks and libraries</li>
 <li>💬 Ask me about Web development</li>
