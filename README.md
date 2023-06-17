@@ -3,7 +3,7 @@ Software Engineer | Full-Stack Developer | Critical Thinker | Observer<br><br>ğŸ
 
 
 ## ğŸŒ Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohsin-sabir-256b331b4/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin-sabir-256b331b4/) 
 
 #### Languages
 ![](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=3c3c3c)
