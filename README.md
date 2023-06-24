@@ -21,8 +21,8 @@ Software Engineer | Full-Stack Developer | Critical Thinker | Observer<br><br>ðŸ
 <hr/>
 
 #### Development
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsin-dotcom&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact) </br >
 ![](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
 <hr/>
 
 #### Tools
@@ -32,13 +32,13 @@ Software Engineer | Full-Stack Developer | Critical Thinker | Observer<br><br>ðŸ
 
 <hr/>
 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsin-dotcom&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact) </br >
+ 
 
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/mohsin-dotcom">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohsin-dotcom&show_icons=true&line_height=27&count_private=true&title_color=3485ef&text_color=343434&icon_color=3964ef&bg_color=fffefe" alt="Mohsin's GitHub Stats" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohsin-dotcom&show_icons=true&line_height=27&count_private=true&title_color=3485ef&text_color=343434&icon_color=3964ef&bg_color=fffefe" alt="Mohsin's GitHub Stats" /> -->
+<!-- </a> -->
 <h5>Company Account (public contributions only, https://gitlab.com/mohsin_dev)</h5>
 
 <!---
