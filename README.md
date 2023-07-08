@@ -20,11 +20,6 @@ Software Engineer | Full-Stack Developer | Critical Thinker | Observer<br><br>ðŸ
 
 <hr/>
 
-#### Development
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsin-dotcom&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact) </br >
-![](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-<hr/>
-
 #### Tools
 ![](https://img.shields.io/badge/-Postman-FFFFFF?logo=postman&logoColor=orange&style=flat)
 ![](https://img.shields.io/badge/-Git-white?logo=git&logoColor=red&style=flat)
