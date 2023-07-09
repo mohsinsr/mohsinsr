@@ -1,9 +1,27 @@
-# 💫 About Me:
-Software Engineer | Full-Stack Developer | Critical Thinker | Observer<br><br>🔭 I’m currently working on Full Stack Development<br>👨‍💻 I’m looking for collaboration with ReactJS/ NextJS / NodeJS<br>🌱 I’m currently learning Cloud Native Development and AWS<br>👯 I’m looking to collaborate on open source and GitHub<br>💬 Ask me about Fullstack development
+## Hey, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Mohsin!
+Software Engineer | Full-Stack Developer | Critical Thinker | Observer<br><br>👨‍💻 I’m currently working on Full Stack Development<br>🔭 I’m looking for collaboration with ReactJS/ NextJS / NodeJS<br>🌱 I’m currently learning Cloud Native Development and AWS<br>💞️ I’m looking to collaborate on open source and GitHub<br>💬 Ask me about Fullstack development
 
+### Let's Connect! 
+[![theriyazo LinkedIn][1.1]][1]
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin-sabir-256b331b4/) 
+[1.1]: https://1.bp.blogspot.com/-jiWIubNhosI/YS5piJx5tHI/AAAAAAAAjVo/s_UAEno0cbwTHZwVRFg-NQPWHf6v9cC_QCLcBGAsYHQ/s56/theriyazo%2Blinkedin.png
+[1]: https://www.linkedin.com/in/mohsin-sabir/
+
+<details open>
+    <summary>GitHub Stats</summary>
+    <table>
+        <tr>
+            <td>
+                <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Mohsin-dotcom&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=69DF69&fire=69DF69&currStreakLabel=69DF69&background=0D1117" alt="mohsin-dotcom github streak"/>
+            </td>
+            <td>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsin-dotcom&layout=compact&title_color=69DF69&text_color=FFFFFF&icon_color=69DF69&bg_color=0D1117" alt="mohsin's most used languages"/>
+            </td>
+        </tr>
+    </table>
+</details>
+<br>
+
 
 #### Languages
 ![](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=3c3c3c)
@@ -26,17 +44,3 @@ Software Engineer | Full-Stack Developer | Critical Thinker | Observer<br><br>�
 ![](https://img.shields.io/badge/-Jira-white?logo=jira&logoColor=blue&style=flat)
 
 <hr/>
-
- 
-
-
-<!-- ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/mohsin-dotcom">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohsin-dotcom&show_icons=true&line_height=27&count_private=true&title_color=3485ef&text_color=343434&icon_color=3964ef&bg_color=fffefe" alt="Mohsin's GitHub Stats" /> -->
-<!-- </a> -->
-<h5>Company Account (public contributions only, https://gitlab.com/mohsin_dev)</h5>
-
-<!---
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
--->
