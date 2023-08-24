@@ -9,16 +9,17 @@ Software Engineer | Full-Stack Developer | Critical Thinker | Observer<br><br>ðŸ
 
 <details open>
     <summary>GitHub Stats</summary>
-    <table>
+     <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=mohsinsr&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=69DF69&fire=69DF69&currStreakLabel=69DF69&background=0D1117" alt="mohsinsr GitHub streak"/>
+<!--     <table>
         <tr>
             <td>
                 <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=mohsinsr&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=69DF69&fire=69DF69&currStreakLabel=69DF69&background=0D1117" alt="mohsinsr GitHub streak"/>
             </td>
-            <td>
+             <td>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinsr&layout=compact&title_color=69DF69&text_color=FFFFFF&icon_color=69DF69&bg_color=0D1117" alt="Mohsin's most used languages"/>
             </td>
         </tr>
-    </table>
+    </table> -->
 </details>
 <br>
 
