@@ -7,7 +7,7 @@ Software Engineer | Full-Stack Developer | Critical Thinker | Observer<br><br>ðŸ
 [1.1]: https://1.bp.blogspot.com/-jiWIubNhosI/YS5piJx5tHI/AAAAAAAAjVo/s_UAEno0cbwTHZwVRFg-NQPWHf6v9cC_QCLcBGAsYHQ/s56/theriyazo%2Blinkedin.png
 [1]: https://www.linkedin.com/in/mohsin-sabir/
 
-<details open>
+<!--   <details open>
     <summary>GitHub Stats</summary>
     <table>
         <tr>
@@ -16,10 +16,11 @@ Software Engineer | Full-Stack Developer | Critical Thinker | Observer<br><br>ðŸ
             </td>
 <!--              <td>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinsr&layout=compact&title_color=69DF69&text_color=FFFFFF&icon_color=69DF69&bg_color=0D1117" alt="Mohsin's most used languages"/>
-            </td> -->
+            </td>
         </tr>
     </table>
 </details>
+ -->
 <br>
 
 
