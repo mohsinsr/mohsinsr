@@ -1,6 +1,8 @@
 ## Hey, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Mohsin!
 Software Engineer | Full-Stack Developer | Critical Thinker | Observer<br><br>👨‍💻 I’m currently working on Full Stack Development<br>🔭 I’m looking for collaboration with ReactJS/ NextJS / NodeJS<br>🌱 I’m currently learning Cloud Native Development and AWS<br>💞️ I’m looking to collaborate on open source and GitHub<br>💬 Ask me about Fullstack development
 
+<a href="https://app.daily.dev/mohsinsbr"><img src="https://api.daily.dev/devcards/v2/Gd7M9eB4k6qsxsv3UoIN8.png?r=tc8&type=wide" width="652" alt="Mohsin sabir's Dev Card"/></a>
+
 ### Let's Connect! 
 [![theriyazo LinkedIn][1.1]][1]
 
